@@ -1,0 +1,192 @@
+/*Estilos para la cabecera de la pagina*/
+
+
+.titulorestaurante
+{
+    float: left;
+    background-color: rgb(141, 6, 141);
+    color: rgb(114, 127, 170);
+    text-shadow: hsl(330, 3%, 12%) 5px 5px 10px ;
+    box-shadow: hsl(330, 3%, 12%) 5px 5px 10px ;
+    text-align: center;
+    padding: 10px 10px 20px 10px;
+    margin:2%;
+    border-radius: 30px;
+}
+
+.logorestaurante
+{
+   
+    text-align: center;
+    margin: 2%;
+    float: left;
+    border-radius: 30px;
+    padding: 10px 10px 20px 10px;
+    /*background: -webkit-linear-gradient(top, #FFFFFF, #666666);*/
+}
+.logorestaurante
+{
+
+margin-right: 3%;
+padding: 3%;
+}
+.fotologo
+{
+    border-radius: 40px;
+}
+
+/*################    Estilos para el cuerpo de la pagina     ###################*/
+
+/*Estilos para la barra de menu*/
+.barrademenu
+{
+    background: -webkit-linear-gradient(top, #a81f9d, #8f8989);
+    margin: 20px;
+    border-radius: 10px;
+    margin-right:6%;
+    font-size: 20px;
+}
+.barrademenu a
+{
+ color:white;
+ margin-left: 45px;
+ text-decoration-style: none;
+}
+
+/*Estilos para la parte principal de la pagina*/
+body
+{
+width: 100%;
+background-color: darkgray;
+margin-left: 4%px;
+}
+.row
+{
+    margin:2px;
+}
+
+
+/*Estilos para la barra lateral*/
+.lateral
+{
+    
+    float: left;
+    padding: 10px;
+    margin-right: 10px;
+}
+
+
+/*Estilos para reserva*/
+.reserva
+{
+    float:left;
+background-color: rgb(151, 175, 190);
+margin: 5px;
+border-radius: 30px;
+box-shadow: hsl(322, 80%, 25%) 5px 5px 10px ;
+padding: 4px;
+}
+
+/*Estilos para el Menu*/
+.menu
+{
+    background-color: rgb(151, 175, 190);
+float: left;
+border-radius: 30px;
+box-shadow: hsl(322, 80%, 25%) 5px 5px 10px ;
+margin-right: 5px;
+padding: 4px;
+text-align: center;
+}
+
+/*Estilos para principal*/
+
+
+.princip
+{
+    background-color: rgb(77, 131, 124);
+    float: left;
+    border-radius:40px;
+    box-shadow: hsl(322, 80%, 25%) 5px 5px 20px 10px inset;
+    margin-left: 1px;
+    padding: 2px;
+}
+.principal
+{
+    text-align:center;
+    color: rgb(43, 6, 85);
+    margin-top: 30px;
+    margin-bottom: 5px;
+}
+.fotoprincipal
+{
+
+margin-right: 3%;
+padding: 3%;
+}
+.foto1
+{
+    border-radius: 40px;
+}
+.principal p
+{
+    font-size: 20px;
+    background-color: none;
+    border-radius: 10px;
+    text-shadow: hsl(330, 84%, 32%) 5px 5px 5px ;
+    margin: 30px;
+    margin-bottom: 1px;
+}
+.cuerpoprincipal
+{
+    margin-right:4%;
+    margin-left:6%;
+}
+.list
+{
+    text-align: left;
+    float:left;
+    margin-left: 1px;
+    padding: 5px;
+}
+.list label a
+{
+color: rgb(30, 11, 138);
+font-weight: bold;
+text-decoration-style: none;
+}
+.pie
+{
+    float:left;
+    text-align: center;
+    background-color: chartreuse;
+    width: 100%;
+}
+
+.formulario
+{
+    float: left;
+}
+#listas li input,textarea
+{
+    background-color: rgb(82, 76, 69);
+    float: left;
+    color: lavenderblush;
+}
+ol
+{
+    margin-left: -30px;
+}
+li
+{
+list-style: none;
+}
+
+.latabla
+{
+   
+    float: left;
+    background-color: red;
+     margin-right: 2%;
+     border: 3px solid green;
+}
